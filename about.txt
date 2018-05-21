@@ -1,0 +1,4 @@
+Programs List
+1.Bisecton Method
+2.Regular Falsi Method
+3.Newton Rapson Method
