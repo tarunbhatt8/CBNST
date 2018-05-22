@@ -2,3 +2,4 @@ Programs List
 1.Bisecton Method
 2.Regular Falsi Method
 3.Newton Rapson Method
+4.Newton Forward Interpolation Method
